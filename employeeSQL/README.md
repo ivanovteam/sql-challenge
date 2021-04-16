@@ -1,4 +1,4 @@
-# sql-challenge
+# SQL-challenge
 
 
 ## Part I
