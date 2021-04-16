@@ -19,4 +19,5 @@ After successful implementation of the data the following analysis was done:
       please refer to average_salary.png
 
 
-P.S. All files are saved in employees_SQL folder
+
+###P.S. All files are saved in employeeSQL folder
